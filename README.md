@@ -2,4 +2,4 @@
 
 See project's site with :
 
-https://vigorous-swartz-f55026.netlify.app
+https://asian-kitchen-menu-pi.vercel.app/
